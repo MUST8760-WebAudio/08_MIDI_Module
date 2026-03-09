@@ -88,7 +88,7 @@
  * midi.onNoteOn = (note, vel, ch) => { /* start a voice *\/ };
  * midi.onNoteOff = (note, vel, ch) => { /* stop a voice *\/ };
  */
-export default class MIDIengine {
+export default class MIDIEngine {
     constructor() {
         /**
          * User handler for Note Off.
