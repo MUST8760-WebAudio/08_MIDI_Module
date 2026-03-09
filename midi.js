@@ -3,7 +3,7 @@
 
 /**
  * @fileoverview
- * Minimal MIDI input helper for MUST 4707.
+ * Minimal MIDI input helper for MUST 8760.
  * Wraps the Web MIDI API to:
  * 1) request access,
  * 2) subscribe to all available inputs (including hot-plugged),
